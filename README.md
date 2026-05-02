@@ -21,7 +21,7 @@ A simple, interactive Python-based system to manage student grades. This project
 1. Make sure you have **Python** installed.
 2. Run the script using the terminal:
    ```bash
-   python project.py
+   python management.py
    ```
 
 ## ⌨️ Commands
